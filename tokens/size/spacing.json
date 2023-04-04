@@ -1,19 +1,24 @@
 {
   "spacing": {
     "xs": {
-      "value": "4px"
+      "value": "4px",
+      "type": "spacing"
     },
     "sm": {
-      "value": "8px"
+      "value": "8px",
+      "type": "spacing"
     },
     "md": {
-      "value": "16px"
+      "value": "16px",
+      "type": "spacing"
     },
     "lg": {
-      "value": "24px"
+      "value": "24px",
+      "type": "spacing"
     },
     "xl": {
-      "value": "32px"
+      "value": "32px",
+      "type": "spacing"
     }
   }
 }
