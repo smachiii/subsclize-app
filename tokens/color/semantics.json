@@ -36,10 +36,10 @@
         "type": "color",
         "description": "ボタンのhoverした時のカラー"
       }
-    },
-    "$themes": [],
-    "$metadata": {
-      "tokenSetOrder": ["colors"]
     }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": ["colors"]
   }
 }
