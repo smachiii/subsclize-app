@@ -1,39 +1,45 @@
 {
   "colors": {
-    "primary": {
-      "value": "#1A1A1A",
-      "type": "color",
-      "description": "プライマリーカラー"
-    },
-    "secondary": {
-      "value": "#252525",
-      "type": "color",
-      "description": "セカンダリーカラー"
-    },
-    "text": {
-      "value": "#ffffff",
-      "type": "color",
-      "description": "主にテキストに使用するカラー"
-    },
-    "error-copy": {
-      "value": "#E21B1B",
-      "type": "color",
-      "description": "エラー時に使用するカラー"
-    },
-    "base": {
-      "value": "linear-gradient(0deg, rgba(26,26,26,1) 30%, rgba(50,11,142,1) 100%)",
-      "type": "color",
-      "description": "コンテンツ全体の背景に使用するカラー"
-    },
-    "button": {
-      "value": "linear-gradient(90deg, #420EB1 15%, #B110A5 100%)",
-      "type": "color",
-      "description": "ボタンのカラー"
-    },
-    "button-hover": {
-      "value": "linear-gradient(90deg, rgba(61,13,164,1) 15%, rgba(162,15,151,1) 100%)",
-      "type": "color",
-      "description": "ボタンのhoverした時のカラー"
+    "colors": {
+      "primary": {
+        "value": "#1A1A1A",
+        "type": "color",
+        "description": "プライマリーカラー"
+      },
+      "secondary": {
+        "value": "#252525",
+        "type": "color",
+        "description": "セカンダリーカラー"
+      },
+      "text": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "主にテキストに使用するカラー"
+      },
+      "error-copy": {
+        "value": "#E21B1B",
+        "type": "color",
+        "description": "エラー時に使用するカラー"
+      },
+      "base": {
+        "value": "linear-gradient(0deg, rgba(26,26,26,1) 30%, rgba(50,11,142,1) 100%)",
+        "type": "color",
+        "description": "コンテンツ全体の背景に使用するカラー"
+      },
+      "button": {
+        "value": "linear-gradient(90deg, #420EB1 15%, #B110A5 100%)",
+        "type": "color",
+        "description": "ボタンのカラー"
+      },
+      "button-hover": {
+        "value": "linear-gradient(90deg, rgba(61,13,164,1) 15%, rgba(162,15,151,1) 100%)",
+        "type": "color",
+        "description": "ボタンのhoverした時のカラー"
+      },
+      "$themes": [],
+      "$metadata": {
+        "tokenSetOrder": ["colors"]
+      }
     }
   }
 }
