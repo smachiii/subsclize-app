@@ -5,7 +5,8 @@
         "fontWeight": "600",
         "lineHeight": "130%",
         "fontSize": "24px"
-      }
+      },
+      "type": "typography"
     },
     "h2": {
       "value": {
