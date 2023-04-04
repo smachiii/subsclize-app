@@ -37,3 +37,6 @@ next-env.d.ts
 
 # yarn
 .yarn
+
+# build-storybook.log
+build-storybook.log
