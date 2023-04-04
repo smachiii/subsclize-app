@@ -6,6 +6,7 @@
         "lineHeight": "130%",
         "fontSize": "24px"
       },
+      "description": "見出し1",
       "type": "typography"
     },
     "h2": {
@@ -13,7 +14,9 @@
         "fontWeight": "600",
         "lineHeight": "130%",
         "fontSize": "18px"
-      }
+      },
+      "description": "見出し2",
+      "type": "typography"
     },
     "body": {
       "value": {
@@ -21,7 +24,8 @@
         "lineHeight": "150%",
         "fontSize": "14px"
       },
-      "description": "基本のタイポグラフィ"
+      "description": "本文に使用するタイポグラフィ",
+      "type": "typography"
     },
     "label": {
       "value": {
@@ -29,7 +33,8 @@
         "lineHeight": "130%",
         "fontSize": "12px"
       },
-      "description": "ラベルに使用するタイポグラフィ"
+      "description": "ラベルに使用するタイポグラフィ",
+      "type": "typography"
     },
     "link": {
       "value": {
@@ -38,7 +43,8 @@
         "lineHeight": "150%",
         "fontSize": "12px"
       },
-      "description": "テキストリンクに使用するタイポグラフィ"
+      "description": "テキストリンクに使用するタイポグラフィ",
+      "type": "typography"
     },
     "button": {
       "value": {
@@ -46,7 +52,8 @@
         "lineHeight": "130%",
         "fontSize": "14px"
       },
-      "description": "ボタンのラベルに使用するタイポグラフィ"
+      "description": "ボタンのラベルに使用するタイポグラフィ",
+      "type": "typography"
     },
     "amount": {
       "value": {
@@ -55,7 +62,8 @@
         "lineHeight": "130%",
         "fontSize": "32px"
       },
-      "description": "数値などにに使用するタイポグラフィ"
+      "description": "数値などにに使用するタイポグラフィ",
+      "type": "typography"
     }
   }
 }
