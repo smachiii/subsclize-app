@@ -1,0 +1,60 @@
+{
+  "variant": {
+    "h1": {
+      "value": {
+        "fontWeight": "600",
+        "lineHeight": "130%",
+        "fontSize": "24px"
+      }
+    },
+    "h2": {
+      "value": {
+        "fontWeight": "600",
+        "lineHeight": "130%",
+        "fontSize": "18px"
+      }
+    },
+    "body": {
+      "value": {
+        "fontWeight": "400",
+        "lineHeight": "150%",
+        "fontSize": "14px"
+      },
+      "description": "基本のタイポグラフィ"
+    },
+    "label": {
+      "value": {
+        "fontWeight": "400",
+        "lineHeight": "130%",
+        "fontSize": "12px"
+      },
+      "description": "ラベルに使用するタイポグラフィ"
+    },
+    "link": {
+      "value": {
+        "textDecoration": "underline",
+        "fontWeight": "400",
+        "lineHeight": "150%",
+        "fontSize": "12px"
+      },
+      "description": "テキストリンクに使用するタイポグラフィ"
+    },
+    "button": {
+      "value": {
+        "fontWeight": "600",
+        "lineHeight": "130%",
+        "fontSize": "14px"
+      },
+      "description": "ボタンのラベルに使用するタイポグラフィ"
+    },
+    "amount": {
+      "value": {
+        "fontWeight": "500",
+        "fontFamily": "Roboto",
+        "lineHeight": "130%",
+        "fontSize": "32px"
+      },
+      "description": "数値などにに使用するタイポグラフィ"
+    }
+  }
+}
