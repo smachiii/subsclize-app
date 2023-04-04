@@ -1,8 +1,6 @@
 import Head from "next/head";
-import { Inter } from "@next/font/google";
 import { css } from "@emotion/react";
-import { global } from "../tokens.json";
-import { SerializedStyles } from "@emotion/react";
+import { ColorsPrimary } from "../build/js/tokens";
 
 export default function Home() {
   return (
@@ -24,5 +22,5 @@ export default function Home() {
 }
 
 const title = css`
-  color: ${global.colors.secondary.value};
+  color: ${ColorsPrimary};
 `;

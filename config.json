@@ -17,7 +17,7 @@
       "files": [
         {
           "destination": "tokens.js",
-          "format": "javascript/module"
+          "format": "javascript/es6"
         }
       ]
     }
