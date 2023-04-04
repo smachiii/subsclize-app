@@ -35,11 +35,11 @@
         "value": "linear-gradient(90deg, rgba(61,13,164,1) 15%, rgba(162,15,151,1) 100%)",
         "type": "color",
         "description": "ボタンのhoverした時のカラー"
-      },
-      "$themes": [],
-      "$metadata": {
-        "tokenSetOrder": ["colors"]
       }
+    },
+    "$themes": [],
+    "$metadata": {
+      "tokenSetOrder": ["colors"]
     }
   }
 }
