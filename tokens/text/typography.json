@@ -1,13 +1,13 @@
 {
   "variant": {
+    "type": "typography",
     "h1": {
       "value": {
         "fontWeight": "600",
         "lineHeight": "130%",
         "fontSize": "24px"
       },
-      "description": "見出し1",
-      "type": "typography"
+      "description": "見出し1"
     },
     "h2": {
       "value": {
@@ -15,8 +15,7 @@
         "lineHeight": "130%",
         "fontSize": "18px"
       },
-      "description": "見出し2",
-      "type": "typography"
+      "description": "見出し2"
     },
     "body": {
       "value": {
@@ -24,8 +23,7 @@
         "lineHeight": "150%",
         "fontSize": "14px"
       },
-      "description": "本文に使用するタイポグラフィ",
-      "type": "typography"
+      "description": "本文に使用するタイポグラフィ"
     },
     "label": {
       "value": {
@@ -33,8 +31,7 @@
         "lineHeight": "130%",
         "fontSize": "12px"
       },
-      "description": "ラベルに使用するタイポグラフィ",
-      "type": "typography"
+      "description": "ラベルに使用するタイポグラフィ"
     },
     "link": {
       "value": {
@@ -43,8 +40,7 @@
         "lineHeight": "150%",
         "fontSize": "12px"
       },
-      "description": "テキストリンクに使用するタイポグラフィ",
-      "type": "typography"
+      "description": "テキストリンクに使用するタイポグラフィ"
     },
     "button": {
       "value": {
@@ -52,8 +48,7 @@
         "lineHeight": "130%",
         "fontSize": "14px"
       },
-      "description": "ボタンのラベルに使用するタイポグラフィ",
-      "type": "typography"
+      "description": "ボタンのラベルに使用するタイポグラフィ"
     },
     "amount": {
       "value": {
@@ -62,8 +57,7 @@
         "lineHeight": "130%",
         "fontSize": "32px"
       },
-      "description": "数値などにに使用するタイポグラフィ",
-      "type": "typography"
+      "description": "数値などにに使用するタイポグラフィ"
     }
   }
 }

@@ -1,5 +1,6 @@
 {
   "shadow": {
+    "type": "boxShadow",
     "drop": {
       "value": {
         "x": "0",

@@ -1,16 +1,14 @@
 {
   "radius": {
+    "type": "borderRadius",
     "xs": {
-      "value": "6px",
-      "type": "borderRadius"
+      "value": "6px"
     },
     "sm": {
-      "value": "12px",
-      "type": "borderRadius"
+      "value": "12px"
     },
     "md": {
-      "value": "20px",
-      "type": "borderRadius"
+      "value": "20px"
     }
   }
 }
