@@ -15,9 +15,6 @@ const nextConfig = {
   images: {
     disableStaticImages: true, // importした画像の型定義設定を無効にする
   },
-  compiler: {
-    emotion: true,
-  },
 };
 
 module.exports = nextConfig;

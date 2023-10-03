@@ -1,6 +1,4 @@
 import Head from "next/head";
-import { css } from "@emotion/react";
-import { ColorsPrimary } from "../build/js/tokens";
 
 export default function Home() {
   return (
@@ -15,12 +13,8 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main>
-        <p css={title}>SUBSCLiZE</p>
+        <p>SUBSCLiZE</p>
       </main>
     </>
   );
 }
-
-const title = css`
-  color: ${ColorsPrimary};
-`;

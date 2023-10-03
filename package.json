@@ -8,12 +8,10 @@
     "start": "next start",
     "lint": "next lint",
     "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook"
+    "build-storybook": "build-storybook",
+    "prepare": "panda codegen"
   },
   "dependencies": {
-    "@emotion/react": "^11.10.5",
-    "@emotion/styled": "^11.10.5",
-    "@mui/material": "^5.11.0",
     "@next/font": "13.0.7",
     "@types/node": "18.11.17",
     "@types/react": "18.0.26",
@@ -31,6 +29,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.20.5",
+    "@pandacss/dev": "^0.15.4",
     "@storybook/addon-actions": "^6.5.14",
     "@storybook/addon-essentials": "^6.5.14",
     "@storybook/addon-interactions": "^6.5.14",
@@ -42,7 +41,6 @@
     "@svgr/webpack": "^7.0.0",
     "babel-loader": "^8.3.0",
     "chromatic": "^6.17.2",
-    "markuplint": "^3.0.1",
-    "style-dictionary": "^3.7.2"
+    "markuplint": "^3.0.1"
   }
 }
